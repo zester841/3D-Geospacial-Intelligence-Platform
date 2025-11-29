@@ -1,0 +1,4 @@
+/* In your global CSS file (styles/globals.css) */
+#__next .nextjs-logo {
+    display: none !important;
+}
